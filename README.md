@@ -37,9 +37,11 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 ![](image/corr.png)
 
-### Density plots
+### Density and count plots
 
 ![](image/density_plot.png)
+
+![](image/count_plot.png)
 
 ### EDA
 
