@@ -33,4 +33,18 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 ## Visualization
 
+### Checking correlation between features
 
+![](image/corr.png)
+
+### Density plots
+
+![](image/density_plot.png)
+
+### EDA
+
+![](image/EDA.png)
+
+## Extracting feature importance from the final model
+
+![](image/feature_importance.png)
